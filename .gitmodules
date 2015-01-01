@@ -1,3 +1,6 @@
 [submodule "jscore"]
 	path = jscore
 	url = https://github.com/Octane/jsCore.git
+[submodule "promise"]
+	path = promise
+	url = https://github.com/Octane/Promise.git
