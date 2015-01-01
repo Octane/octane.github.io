@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: #f1f1f1;
+    font: 16px/24px Helvetica, Arial, sans-serif;
+    color: #333;
+}
+a:link, a:visited {
+    color: #4772e0;
+    text-decoration: none;
+}
+a:hover {
+    background-color: #4772e0;
+    color: #f1f1f1;
+}
+h1, p {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    display: inline;
+    font-size: 56px;
+    line-height: 66px;
+}
+p {
+    display: inline-block;
+    width: 160px;
+    line-height: 16px;
+}
+img {
+    width: 66px;
+    height: 66px;
+    vertical-align: bottom;
+}
+.page {
+    position: relative;
+    padding: 20px;
+}
+.github {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+}
