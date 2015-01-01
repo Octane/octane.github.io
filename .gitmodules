@@ -4,3 +4,9 @@
 [submodule "promise"]
 	path = promise
 	url = https://github.com/Octane/Promise.git
+[submodule "setimmediate"]
+	path = setimmediate
+	url = https://github.com/Octane/setImmediate.git
+[submodule "textfinder"]
+	path = textfinder
+	url = https://github.com/Octane/TextFinder.git
