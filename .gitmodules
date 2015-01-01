@@ -1,0 +1,3 @@
+[submodule "jscore"]
+	path = jscore
+	url = https://github.com/Octane/jsCore.git
