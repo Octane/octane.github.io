@@ -13,3 +13,6 @@
 [submodule "chromium-issue-473618"]
 	path = chromium-issue-473618
 	url = https://github.com/Octane/chromium-issue-473618.git
+[submodule "consolejs"]
+	path = consolejs
+	url = https://github.com/Octane/consolejs.git
