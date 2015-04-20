@@ -16,3 +16,6 @@
 [submodule "consolejs"]
 	path = consolejs
 	url = https://github.com/Octane/consolejs.git
+[submodule "js-core"]
+	path = js-core
+	url = https://github.com/Octane/js-core.git
