@@ -19,3 +19,6 @@
 [submodule "js-core"]
 	path = js-core
 	url = https://github.com/Octane/js-core.git
+[submodule "test-facebook-sharing"]
+	path = test-facebook-sharing
+	url = https://github.com/Octane/test-facebook-sharing.git
