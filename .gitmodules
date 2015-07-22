@@ -22,3 +22,6 @@
 [submodule "test-facebook-sharing"]
 	path = test-facebook-sharing
 	url = https://github.com/Octane/test-facebook-sharing.git
+[submodule "sha1"]
+	path = sha1
+	url = https://github.com/Octane/sha1.git
