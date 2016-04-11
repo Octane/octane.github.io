@@ -25,3 +25,6 @@
 [submodule "sha1"]
 	path = sha1
 	url = https://github.com/Octane/sha1.git
+[submodule "hrmapp"]
+	path = hrmapp
+	url = https://github.com/Octane/hrmapp.git
